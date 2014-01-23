@@ -1,6 +1,7 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+.classpath
+.project
+.DS_Store
+.settings/
+target/
+logs/*
+!gitkeep
