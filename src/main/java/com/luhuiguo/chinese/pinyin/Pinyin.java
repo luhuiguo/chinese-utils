@@ -34,6 +34,9 @@ public enum Pinyin {
 	public static final String PINYIN_MAPPING_FILE = "/pinyin.txt";
 	public static final String POLYPHONE_MAPPING_FILE = "/polyphone.txt";
 
+	public static final String EMPTY = "";
+	public static final String SHARP = "#";
+	public static final String EQUAL = "=";
 	public static final String COMMA = ",";
 	public static final String SPACE = " ";
 
@@ -58,8 +61,19 @@ public enum Pinyin {
 							PINYIN_MAPPING_FILE)), StandardCharsets.UTF_8));
 			String line = null;
 			while (null != (line = in.readLine())) {
-				pinyinDict.add(line);
+				if (line.length() == 0 || line.startsWith(SHARP)) {
+					continue;
+				}
+				String[] pair = line.split(EQUAL);
+
+				if (pair.length < 2) {
+					pinyinDict.add(EMPTY);
+				} else {
+					pinyinDict.add(pair[1]);
+				}
 			}
+			//System.out.println("size=" + pinyinDict.size());
+
 			in.close();
 
 		} catch (IOException e) {
@@ -79,10 +93,10 @@ public enum Pinyin {
 			String line = null;
 			while (null != (line = in.readLine())) {
 				// line = line.trim();
-				if (line.length() == 0 || line.startsWith("#")) {
+				if (line.length() == 0 || line.startsWith(SHARP)) {
 					continue;
 				}
-				String[] pair = line.split("=");
+				String[] pair = line.split(EQUAL);
 
 				if (pair.length < 2) {
 					continue;

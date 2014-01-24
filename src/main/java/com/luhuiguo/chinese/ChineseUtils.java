@@ -100,7 +100,8 @@ public class ChineseUtils {
 					System.out.println("繁体: "+ChineseUtils.toTraditional(textLine));
 					break;
 				default:
-					System.out.println("拼音: "+ChineseUtils.toPinyin(textLine,PinyinFormat.UNICODE_PINYIN_FORMAT));
+					System.out
+							.println("拼音: "+ChineseUtils.toPinyin(textLine)+" ("+ChineseUtils.toPinyin(textLine,PinyinFormat.UNICODE_PINYIN_FORMAT)+")");
 					break;
 				}
 

@@ -31,6 +31,10 @@ public enum Converter {
 	public static final String TRADITIONAL_MAPPING_FILE = "/traditional.txt";
 	public static final String TRADITIONAL_LEXEMIC_MAPPING_FILE = "/traditional_lexemic.txt";
 
+	public static final String EMPTY = "";
+	public static final String SHARP = "#";
+	public static final String EQUAL = "=";
+
 	private char[] chars = null;
 
 	private Trie<String> dict = null;
@@ -58,7 +62,7 @@ public enum Converter {
 			CharArrayWriter out = new CharArrayWriter();
 			String line = null;
 			while (null != (line = in.readLine())) {
-				//line = line.trim();
+				// line = line.trim();
 				out.write(line);
 			}
 			chars = out.toCharArray();
@@ -86,11 +90,11 @@ public enum Converter {
 
 			String line = null;
 			while (null != (line = in.readLine())) {
-				//line = line.trim();
-				if (line.length() == 0 || line.startsWith("#")) {
+				// line = line.trim();
+				if (line.length() == 0 || line.startsWith(SHARP)) {
 					continue;
 				}
-				String[] pair = line.split("=");
+				String[] pair = line.split(EQUAL);
 
 				if (pair.length < 2) {
 					continue;
