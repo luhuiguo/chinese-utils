@@ -1555,6 +1555,7 @@
 发卡=fa4 qia3
 关卡=guan1 qia3
 卡壳=qia3 ke2
+卡脖子=qia3 bo2 zi5
 
 
 #卬=ang2,yang3
@@ -1573,6 +1574,17 @@
 #卷=juan3
 
 #卷=juan4
+试卷=shi4 juan4
+长卷=chang2 juan2
+画卷=hua4 juan4
+手卷=shou3 juan4
+案卷=an4 juan4
+上卷=shang4 juan4
+中卷=zhong1 juan4
+下卷=xia4 juan4
+万卷=wan4 juan4
+一卷=yi1 juan4
+卷帙=juan4 zhi4
 
 #卷=quan2
 
@@ -1595,6 +1607,7 @@
 #压=ya1
 
 #压=ya4
+压根儿=ya4 gen1 er2
 
 
 #厕=ce4,si5
@@ -1613,6 +1626,7 @@
 #厦=sha4
 
 #厦=xia4
+厦门=xia4 men2
 
 
 #厪=qin2,jin3
@@ -1637,9 +1651,13 @@
 #参=can1
 
 #参=cen1
+参差=cen1 ci1
 
 #参=shen1
-
+人参=ren2 shen1
+党参=dang3 shen1
+西洋参=xi1 yang2 shen1
+参茸=shen1 rong2
 
 #參=can1,cen1,shen1,san1
 #參=can1
@@ -1673,6 +1691,12 @@
 #发=fa1
 
 #发=fa4
+理发=li3 fa4
+头发=tou2 fa4
+结发=jie2 fa4
+鬓发=bin4 fa4
+发箍=fa4 gu1
+怒发冲冠=nu4 fa4 chong1 guan1
 
 
 #叔=shu1,shu2
@@ -1685,12 +1709,15 @@
 #句=ju4
 
 #句=gou1
+高句骊=gao1 gou1 li2
 
-
-#叨=tao1,dao1,dao2
-#叨=tao1
-
+#叨=dao1,tao1,dao2
 #叨=dao1
+
+#叨=tao1
+叨光=tao1 guang1
+叨拢=tao1 long3
+叨陪=tao1 pei2
 
 #叨=dao2
 

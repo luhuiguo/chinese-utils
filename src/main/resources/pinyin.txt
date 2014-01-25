@@ -1510,7 +1510,7 @@
 句=ju4,gou1
 另=ling4
 叧=gua3
-叨=tao1,dao1,dao2
+叨=dao1,tao1,dao2
 叩=kou4
 只=zhi3,zhi1
 叫=jiao4

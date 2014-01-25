@@ -26,10 +26,10 @@ public enum Converter {
 
 	public static final char CJK_UNIFIED_IDEOGRAPHS_START = '\u4E00';
 	public static final char CJK_UNIFIED_IDEOGRAPHS_END = '\u9FA5';
-	public static final String SIMPLIFIED_MAPPING_FILE = "/simplified.txt";
-	public static final String SIMPLIFIED_LEXEMIC_MAPPING_FILE = "/simplified_lexemic.txt";
-	public static final String TRADITIONAL_MAPPING_FILE = "/traditional.txt";
-	public static final String TRADITIONAL_LEXEMIC_MAPPING_FILE = "/traditional_lexemic.txt";
+	public static final String SIMPLIFIED_MAPPING_FILE = "/simp.txt";
+	public static final String SIMPLIFIED_LEXEMIC_MAPPING_FILE = "/simplified.txt";
+	public static final String TRADITIONAL_MAPPING_FILE = "/trad.txt";
+	public static final String TRADITIONAL_LEXEMIC_MAPPING_FILE = "/traditional.txt";
 
 	public static final String EMPTY = "";
 	public static final String SHARP = "#";

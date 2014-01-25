@@ -11,9 +11,7 @@ package com.luhuiguo.chinese.pinyin;
  */
 public class PinyinFormatter {
 
-	public static String formatPinyin(String pinyinStr,
-			PinyinFormat format)
-			throws BadPinyinFormatException {
+	public static String formatPinyin(String pinyinStr, PinyinFormat format) {
 
 		if (ToneType.WITH_ABBR == format.getToneType()) {
 
@@ -24,8 +22,11 @@ public class PinyinFormatter {
 			if ((ToneType.WITH_TONE_MARK == format.getToneType())
 					&& ((YuCharType.WITH_V == format.getYuCharType()) || (YuCharType.WITH_U_AND_COLON == format
 							.getYuCharType()))) {
-				throw new BadPinyinFormatException(
-						"tone marks cannot be added to v or u:");
+				// ToneType.WITH_TONE_MARK force YuCharType.WITH_U_UNICODE
+				format.setYuCharType(YuCharType.WITH_U_UNICODE);
+
+				// throw new BadPinyinFormatException(
+				// "tone marks cannot be added to v or u:");
 			}
 
 			switch (format.getToneType()) {

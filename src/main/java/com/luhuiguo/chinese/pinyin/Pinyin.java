@@ -72,7 +72,7 @@ public enum Pinyin {
 					pinyinDict.add(pair[1]);
 				}
 			}
-			//System.out.println("size=" + pinyinDict.size());
+			// System.out.println("size=" + pinyinDict.size());
 
 			in.close();
 
@@ -125,8 +125,7 @@ public enum Pinyin {
 		}
 	}
 
-	public String[] toFormattedPinyin(char ch, PinyinFormat format)
-			throws BadPinyinFormatException {
+	public String[] toFormattedPinyin(char ch, PinyinFormat format) {
 		String[] pinyinStrArray = toUnformattedPinyin(ch);
 		if (null != pinyinStrArray) {
 			for (int i = 0; i < pinyinStrArray.length; i++) {
@@ -147,8 +146,7 @@ public enum Pinyin {
 		return null;
 	}
 
-	public String toPinyin(char ch, PinyinFormat format)
-			throws BadPinyinFormatException {
+	public String toPinyin(char ch, PinyinFormat format) {
 
 		String[] pinyinStrArray = null;
 
@@ -161,7 +159,7 @@ public enum Pinyin {
 	}
 
 	public void convert(Reader reader, Writer writer, PinyinFormat format)
-			throws IOException, BadPinyinFormatException {
+			throws IOException {
 
 		PushbackReader in = new PushbackReader(new BufferedReader(reader),
 				maxLen);
@@ -226,7 +224,7 @@ public enum Pinyin {
 		Writer out = new StringWriter();
 		try {
 			convert(in, out, format);
-		} catch (Exception e) {
+		} catch (IOException e) {
 			e.printStackTrace();
 		}
 		ret = out.toString();
