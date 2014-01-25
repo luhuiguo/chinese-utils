@@ -1726,6 +1726,10 @@
 #只=zhi3
 
 #只=zhi1
+一只=yi1 zhi1
+几只=ji3 zhi1
+只身=zhi1 shen1
+片纸只字=pian4 zhi3 zhi1 zi4
 
 
 #召=zhao4,shao4,zhao1
@@ -1740,30 +1744,38 @@
 #可=ke3
 
 #可=ke4
+可汗=ke4 han2
 
 
 #台=tai2,tai1
 #台=tai2
 
 #台=tai1
+台州=tai1 zhou1
 
 
 #叶=ye4,xie2
 #叶=ye4
 
 #叶=xie2
-
+叶韵=xie2 yun4
 
 #号=hao4,hao2
 #号=hao4
 
 #号=hao2
+号叫=hao2 jiao4
+哀号=ai1 hao2
+号丧=hao2 sang1
+号啕大哭=hao2 tao2 da4 ku1
 
 
 #吁=yu4,xu1,yu1
 #吁=yu4
 
 #吁=xu1
+长吁短叹=chang2 xu1 duan3 tan4
+气喘吁吁=qi4 chuan3 xu1 xu1
 
 #吁=yu1
 
@@ -1778,6 +1790,7 @@
 #各=ge4
 
 #各=ge3
+自各儿=zi4 ge3 er2
 
 
 #合=he2,ge3
@@ -1790,12 +1803,18 @@
 #同=tong2
 
 #同=tong4
+胡同=hu2 tong4
 
 
 #吐=tu3,tu4
 #吐=tu3
 
 #吐=tu4
+吐血=tu4 xue3
+吐口水=tu4 kou3 shui3
+吐沫=tu4 mo4
+呕吐=ou3 tu4
+上吐下泻=shang4 tu4 xia4 xie4
 
 
 #吒=zha4,zha1
@@ -1804,19 +1823,22 @@
 #吒=zha1
 
 
-#吓=he4,xia4
-#吓=he4
-
+#吓=xia4,he4
 #吓=xia4
+
+#吓=he4
+威吓=wei1 he4
+恐吓=kong3 he4
 
 
 #吗=ma5,ma3,ma2
 #吗=ma5
 
 #吗=ma3
+吗啡=ma3 fei1
 
 #吗=ma2
-
+干吗=gan1 ma2
 
 #吡=bi3,pi3
 #吡=bi3
@@ -1828,13 +1850,13 @@
 #否=fou3
 
 #否=pi3
-
+否极泰来=pi3 ji2 tai4 lai2
 
 #吧=ba5,ba1
 #吧=ba5
 
 #吧=ba1
-
+吧的一声=ba1 de5 yi1 sheng1
 
 #听=ting1,yin3
 #听=ting1
@@ -1842,17 +1864,18 @@
 #听=yin3
 
 
-#吭=hang2,keng1
-#吭=hang2
-
+#吭=keng1,hang2
 #吭=keng1
+
+#吭=hang2
+引吭高歌=yin3 hang2 gao1 ge1
 
 
 #吱=zhi1,zi1
 #吱=zhi1
 
 #吱=zi1
-
+吱声=zi1 sheng1
 
 #吵=chao3,chao1
 #吵=chao3
@@ -1870,6 +1893,7 @@
 #吽=ou2
 
 #吽=hong1
+唵嘛呢叭咪吽=an3 ma5 ne5 ba5 mi1 hong1
 
 
 #吿=gao4,gu4
@@ -1894,6 +1918,7 @@
 #呆=dai1
 
 #呆=ai2
+呆板=ai2 ban3
 
 
 #告=gao4,gu4
@@ -1922,12 +1947,15 @@
 #呕=ou3
 
 #呕=ou4
+呕气=ou4 qi4
 
 
 #呗=bei5,bai4
 #呗=bei5
 
 #呗=bai4
+呗唱=bai4 chang4
+梵呗=fan4 bai4
 
 
 #员=yuan2,yun2,yun4
@@ -1942,6 +1970,11 @@
 #呛=qiang1
 
 #呛=qiang4
+够呛=gou4 qiang4
+呛人=qiang4 ren2
+呛鼻=qiang4 bi2
+呛眼=qiang4 yan3
+呛到=qiang4 dao4
 
 
 #呢=ni2,ne5,na4,ne4
@@ -1958,6 +1991,7 @@
 #呱=gua1
 
 #呱=gu1
+呱呱坠地=gu1 gu1 zhui4 di4
 
 #呱=wa1
 
@@ -1974,6 +2008,7 @@
 #呵=he1
 
 #呵=ke1
+呵叻=ke1 le4
 
 #呵=a1
 
@@ -2004,7 +2039,9 @@
 #咄=duo4
 
 
-#咉=bi4,fu2
+#咉=yang3,bi4,fu2
+#咉=yang3
+
 #咉=bi4
 
 #咉=fu2
@@ -2028,18 +2065,26 @@
 #咋=ze2
 
 #咋=zha1
+咋呼=zha1 hu1
 
 #咋=zha4
+咋舌=zha4 she2
 
 
 #和=he2,he4,huo2,huo4,huo5,hai1,he5,hu2
 #和=he2
 
 #和=he4
+曲高和寡=qu3 gao1 he4 gua3
 
 #和=huo2
+和面=huo2 mian4
+和泥=huo2 ni2
 
 #和=huo4
+和药=huo4 yao4
+和弄=huo4 nong4
+和稀泥=huo4 xi1 ni2
 
 #和=huo5
 
@@ -2048,6 +2093,7 @@
 #和=he5
 
 #和=hu2
+和了=hu2 le5
 
 
 #咐=fu4,fu5
@@ -2066,6 +2112,7 @@
 #咖=ka1
 
 #咖=ga1
+咖喱=ga1 li2
 
 
 #咥=xi4,die2
@@ -2078,6 +2125,7 @@
 #咧=lie3
 
 #咧=lie1
+大大咧咧=da4 da4 lie1 lie1
 
 #咧=lie5
 
@@ -2098,6 +2146,7 @@
 #咱=zan2
 
 #咱=za2
+咱家=za2 jia1
 
 #咱=zan5
 
@@ -2106,6 +2155,7 @@
 #咳=ke2
 
 #咳=hai1
+咳声叹气=hai1 sheng1 tan4 qi4
 
 #咳=ka3
 
@@ -2122,8 +2172,15 @@
 #咽=yan1
 
 #咽=yan4
+吞咽=tun1 yan4
+咽口水=yan4 kou3 shui3
+咽下去=yan4 xia4 qu4
+狼吞虎咽=lang2 tun1 hu3 yan4
+细嚼慢咽=xi4 jiao2 man4 yan4
 
 #咽=ye4
+哽咽=geng3 ye4
+呜咽=wu1 ye4
 
 
 #哄=hong1,hong3,hong4
@@ -12058,10 +12115,10 @@
 #镸=zhang3
 
 
-#长=zhang3,chang2
-#长=zhang3
-
+#长=chang2,zhang3
 #长=chang2
+
+#长=zhang3
 
 
 #閆=yan4,yan2

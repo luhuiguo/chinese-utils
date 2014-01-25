@@ -1553,7 +1553,7 @@
 吐=tu3,tu4
 向=xiang4
 吒=zha4,zha1
-吓=he4,xia4
+吓=xia4,he4
 吔=ye3
 吕=lu:3
 吖=a1
@@ -1579,7 +1579,7 @@
 吪=e2
 含=han2
 听=ting1,yin3
-吭=hang2,keng1
+吭=keng1,hang2
 吮=shun3
 启=qi3
 吰=hu1
@@ -1671,7 +1671,7 @@
 咆=pao2
 咇=bie2
 咈=fu2
-咉=bi4,fu2
+咉=yang3,bi4,fu2
 咊=he2,he4,huo2,huo4,huo5
 咋=za3,ze2,zha1,zha4
 和=he2,he4,huo2,huo4,huo5,hai1,he5,hu2
@@ -18301,7 +18301,7 @@
 镼=qu1
 镽=liao2
 镾=mi2
-长=zhang3,chang2
+长=chang2,zhang3
 門=men2
 閁=ma4
 閂=shuan1
