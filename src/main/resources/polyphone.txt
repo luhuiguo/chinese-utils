@@ -5460,6 +5460,8 @@
 #曾=ceng2
 
 #曾=zeng1
+曾祖父=zeng1 zu3 fu4
+曾孙=zeng1 sun1
 
 
 #會=hui4,hui3,kuai4
@@ -5504,6 +5506,15 @@
 #朝=chao2
 
 #朝=zhao1
+朝阳=zhao1 yang2
+朝晖=zhao1 hui1
+朝暮=zhao1 mu4
+朝霞=zhao1 xia2
+朝气=zhao1 qi4
+朝思暮想=zhao1 si1 mu4 xiang3
+朝令夕改=zhao1 ling4 xi1 gai3
+朝秦暮楚=zhao1 qin2 mu4 chu3
+朝三暮四=zhao1 san1 mu4 si4
 
 
 #朞=ji1,qi1
@@ -5644,10 +5655,11 @@
 #柉=bian1
 
 
-#柏=bo2,bai3,bo4
-#柏=bo2
-
+#柏=bai3,bo2,bo4
 #柏=bai3
+
+#柏=bo2
+柏林=bo2 lin2
 
 #柏=bo4
 
@@ -6156,6 +6168,7 @@
 #正=zheng4
 
 #正=zheng1
+正月=zheng1 yue4
 
 
 #殖=zhi2,shi5
@@ -6256,7 +6269,7 @@
 #汗=han4
 
 #汗=han2
-
+可汗=ke4 han2
 
 #汞=gong3,hong4
 #汞=gong3
@@ -6312,6 +6325,8 @@
 #没=mei2
 
 #没=mo4
+淹没=yan1 mo4
+没过=mo4 guo4
 
 
 #沤=ou4,ou1
@@ -6338,6 +6353,9 @@
 #泊=bo2
 
 #泊=po1
+湖泊=hu2 po1
+水泊=shui3 po1
+血泊=xue4 po1
 
 #泊=po4
 
@@ -6926,6 +6944,8 @@
 #炮=bao1
 
 #炮=pao2
+炮制=pao2 zhi4
+炮烙=pao2 luo4
 
 #炮=pao1
 
@@ -6940,6 +6960,11 @@
 #炸=zha4
 
 #炸=zha2
+炸酱=zha2 jiang4
+炸糕=zha2 gao1
+炸鱼=zha2 yu2
+油炸=zha2 zha2
+煎炸=jian1 zha2
 
 
 #点=dian3,dian5
@@ -7120,6 +7145,8 @@
 #爪=zhua3
 
 #爪=zhao3
+爪牙=zhao3 ya2
+鹰爪=ying1 zhao3
 
 
 #爲=wei4,wei2
@@ -7592,6 +7619,9 @@
 #盛=sheng4
 
 #盛=cheng2
+盛饭=cheng2 fan4
+盛菜=cheng2 cai4
+盛器=cheng2 qi4
 
 
 #盟=meng2,ming2
@@ -7616,6 +7646,17 @@
 #相=xiang1
 
 #相=xiang4
+相貌=xiang4 mao4
+照相=zhao4 xiang4
+凶相=xiong1 xiang4
+可怜相=ke3 lian2 xiang4
+相面=xiang4 mian4
+相术=xiang4 shu4
+辅相=fu3 xiang4
+宰相=zai3 xiang4
+首相=shou3 xiang4
+相态=xiang4 tai4
+相位=xiang4 wei4
 
 
 #盾=dun4,shun3
@@ -7628,6 +7669,12 @@
 #省=sheng3
 
 #省=xing3
+反省=fan3 xing3
+省察=xing3 cha2
+三省吾身=san1 xing3 wu2 shen1
+省悟=xing3 wu4
+发人深省=fa1 ren2 shen1 xing3
+省视=xing3 shi4
 
 
 #眄=mian3,mian4
@@ -7652,10 +7699,29 @@
 #着=zhe5
 
 #着=zhuo2
+穿着=chuan1 zhuo2
+着装=zhuo2 zhuang1
+着陆=zhuo2 lu4
+附着=fu4 zhuo2
+不着边际=bu4 zhuo2 bian1 ji4
+着眼=zhuo2 yan3
+着笔=zhuo2 bi3
+着色=zhuo2 se4
+着墨=zhuo2 mo4
+着力=zhuo2 li4
+着想=zhuo2 xiang3
+着意=zhuo2 yi4
+着落=zhuo2 luo4
+着手=zhuo2 shou3
 
 #着=zhao2
+着急=zhao2 ji2
+着迷=zhao2 mi2
+着火=zhao2 huo3
 
 #着=zhao1
+着法=zhao1 fa3
+着数=zhao1 shu4
 
 
 #睚=ya2,ai2
@@ -7682,10 +7748,11 @@
 #瞭=liao3
 
 
-#瞿=ju4,qu2,qu1
-#瞿=ju4
-
+#瞿=qu2,ju4,qu1
 #瞿=qu2
+
+#瞿=ju4
+瞿然=ju4 ran2
 
 #瞿=qu1
 
@@ -7840,6 +7907,7 @@
 #磅=bang4
 
 #磅=pang2
+磅礴=pang2 bo2
 
 #磅=pang1
 
@@ -7848,6 +7916,14 @@
 #磨=mo2
 
 #磨=mo4
+石磨=shi2 mo4
+电磨=dian4 mo4
+磨盘=mo4 pan2
+磨坊=mo4 fang1
+推磨=tui1 mo4
+磨面=mo4 mian4
+磨米=mo4 mi3
+磨豆腐=mo4 dou4 fu3
 
 
 #礒=wo4,yi3
@@ -7892,6 +7968,10 @@
 #禁=jin4
 
 #禁=jin1
+禁受=jin1 shou4
+禁得住=jin1 de2 zhu4
+禁不起=jin1 bu4 qi3
+弱不禁风=ruo4 bu4 jin1 feng1
 
 
 #禅=shan4,chan2
@@ -7930,12 +8010,18 @@
 #种=chong2
 
 #种=zhong4
+耕种=geng1 zhong4
+种植=zhong4 zhi2
+种花=zhong4 hua1
+种树=zhong4 shu4
+种菜=zhong4 cai4
 
 
 #秘=mi4,bi4,lin2
 #秘=mi4
 
 #秘=bi4
+秘鲁=bi4 lu3
 
 #秘=lin2
 
@@ -7952,6 +8038,8 @@
 #称=cheng1
 
 #称=chen4
+称心=chen4 xin1
+对称=dui4 chen4
 
 #称=cheng4
 
@@ -8038,7 +8126,11 @@
 #空=kong1
 
 #空=kong4
-
+空白=kong4 bai2
+空地=kong4 di4
+空额=kong4 e2
+空缺=kong4 que1
+空出=kong4 chu1
 
 #突=tu1,tu2
 #突=tu1
@@ -8174,6 +8266,8 @@
 #答=da2
 
 #答=da1
+答理=da1 li3
+答应=da1 ying1
 
 
 #筠=yun2,jun1
@@ -8260,6 +8354,9 @@
 #粘=zhan1
 
 #粘=nian2
+粘稠=nian2 chou2
+粘土=nian2 tu3
+粘液=nian2 ye4
 
 
 #粢=zi1,ci2
@@ -8304,6 +8401,7 @@
 #糊=hu1
 
 #糊=hu4
+糊弄=hu4 nong4
 
 
 #糓=gu3,yu4
@@ -8670,21 +8768,27 @@
 #结=jie2
 
 #结=jie1
+结实=jie1 shi2
+结果=jie1 guo3
 
 
-#绕=rao3,rao4,rao5
-#绕=rao3
-
+#绕=rao4,rao3,rao5
 #绕=rao4
+
+#绕=rao3
 
 #绕=rao5
 
 
-#给=ji3,gei3
-#给=ji3
-
+#给=gei3,ji3
 #给=gei3
 
+#给=ji3
+补给=bu3 ji3
+配给=pei4 ji3
+给养=ji3 yang3
+自给自足=zi4 ji3 zi4 zu2
+给予=ji3 yu3
 
 #络=luo4,lao4
 #络=luo4
@@ -8756,6 +8860,10 @@
 #缝=feng2
 
 #缝=feng4
+缝隙=feng4 xi4
+裂缝=lie4 feng4
+见缝插针=jian4 feng4 cha1 zhen1
+天衣无缝=tian1 yi1 wu2 feng4
 
 
 #缥=piao1,piao3
@@ -8768,6 +8876,7 @@
 #缩=suo1
 
 #缩=su4
+缩砂=su4 sha1
 
 
 #缪=mou2,miao4,miu4
@@ -8776,7 +8885,7 @@
 #缪=miao4
 
 #缪=miu4
-
+纰缪=pi1 miu4
 
 #缯=zeng1,zeng4
 #缯=zeng1
@@ -8972,6 +9081,10 @@
 #肚=du4
 
 #肚=du3
+猪肚=zhu1 du3
+羊肚=yang2 du3
+牛肚=niu2 du3
+肚片=du3 pian4
 
 
 #育=yu4,yo1
@@ -8984,6 +9097,9 @@
 #背=bei4
 
 #背=bei1
+背包=bei1 bao1
+背负=bei1 fu4
+背黑锅=bei1 hei1 guo1
 
 
 #胖=pang4,pan2
@@ -9022,6 +9138,7 @@
 #脉=mai4
 
 #脉=mo4
+脉脉=mo4 mo4
 
 
 #脊=ji3,ji2
@@ -9034,6 +9151,10 @@
 #脏=zang4
 
 #脏=zang1
+脏话=zang1 hua4
+脏了=zang1 le5
+很脏=hen3 zang1
+脏衣服=zang1 yi1 fu2
 
 
 #脚=jiao3,jue2,jia3
@@ -9068,10 +9189,10 @@
 #腋=yi4
 
 
-#腌=a1,yan1
-#腌=a1
-
+#腌=yan1,a1
 #腌=yan1
+
+#腌=a1
 
 
 #腏=chuo4,duo2
@@ -9120,10 +9241,11 @@
 #膜=mo4
 
 
-#臂=bei5,bi4,bei4
-#臂=bei5
-
+#臂=bi4,bei5,bei4
 #臂=bi4
+
+#臂=bei5
+胳臂=ge1 bei5
 
 #臂=bei4
 
@@ -9138,6 +9260,7 @@
 #臊=sao1
 
 #臊=sao4
+臊子=sao4 zi5
 
 
 #臑=nao4,ru2
@@ -9192,7 +9315,12 @@
 #舍=she4
 
 #舍=she3
-
+舍弃=she3 qi4
+抛舍=pao1 she3
+舍得=she3 de2
+舍去=she3 qu4
+四舍五入=si4 she3 wu3 ru4
+舍己=she3 ji3
 
 #舎=she3,she4
 #舎=she3
@@ -9212,6 +9340,7 @@
 #般=bo1
 
 #般=pan2
+般桓=pan2 huan2
 
 
 #舵=duo4,tuo2
@@ -9248,6 +9377,7 @@
 #色=se4
 
 #色=shai3
+色子=shai3 zi5
 
 
 #艾=ai4,yi4
@@ -9278,6 +9408,7 @@
 #芥=jie4
 
 #芥=gai4
+芥菜=gai4 cai4
 
 
 #芦=lu2,lu3
@@ -9296,6 +9427,10 @@
 #芯=xin1
 
 #芯=xin4
+岩芯=yan2 xin4
+矿芯=kuang4 xin4
+引芯=yin3 xin4
+芯子=xin4 zi5
 
 
 #芽=ya2,di2
@@ -9338,12 +9473,14 @@
 #苣=ju4
 
 #苣=qu3
+苣卖菜=qu3 mai4 cai4
 
 
 #若=ruo4,re3
 #若=ruo4
 
 #若=re3
+般若=bo1 re3
 
 
 #苧=zhu4,ning2
@@ -9368,6 +9505,7 @@
 #茄=qie2
 
 #茄=jia1
+雪茄=xue3 jia1
 
 
 #茆=mao2,mao3
@@ -9386,6 +9524,8 @@
 #茜=qian4
 
 #茜=xi1
+茜草=xi1 cao3
+茜茜公主=xi1 xi1 gong1 zhu3
 
 
 #茬=cha2,zha1
@@ -9428,12 +9568,14 @@
 #荠=ji4
 
 #荠=qi2
+荸荠=bi2 qi2
 
 
 #荤=hun1,xun1
 #荤=hun1
 
 #荤=xun1
+荤粥=xun1 zhou1
 
 
 #荥=ying2,xing2
@@ -9458,12 +9600,16 @@
 #荷=he2
 
 #荷=he4
+荷载=he4 zai3
+重荷=zhong4 he4
+荷枪实弹=he4 qiang1 shi2 dan4
 
 
 #莎=sha1,suo1
 #莎=sha1
 
 #莎=suo1
+莎草=suo1 cao3
 
 
 #莘=xin1,shen1
@@ -9482,8 +9628,12 @@
 #莞=guan1
 
 #莞=guan3
+东莞=dong1 guan3
 
 #莞=wan3
+莞尔=wan3 er3
+莞莞=wan3 wan3
+
 
 #莞=wan1
 
@@ -9530,6 +9680,7 @@
 #菀=yu4
 
 #菀=wan3
+紫菀=zi3 wan3
 
 
 #菉=lu4,lu:4
@@ -9610,8 +9761,12 @@
 #落=luo4
 
 #落=la4
+丢三落四=diu1 san1 la4 si4
+#落下=la4 xia4
+落了=la4 le5
 
 #落=lao4
+莲花落=lian2 hua1 lao4
 
 #落=luo1
 
@@ -9674,8 +9829,23 @@
 #蒙=meng3
 
 #蒙=meng2
+启蒙=qi3 meng2
+发蒙=fa1 meng2
+蒙昧=meng2 mei4
+蒙蔽=meng2 bi4
+承蒙=cheng2 meng2
+蒙难=meng2 nan4
+蒙尘=meng2 chen2
+蒙垢=meng2 gou4
+蒙蒙细雨=meng2 meng2 xi4 yu3
 
 #蒙=meng1
+蒙骗=meng1 pian4
+蒙哄=meng1 hong1
+蒙事=meng1 shi4
+欺上蒙下=qi1 shang4 meng1 xia4
+蒙头转向=meng1 tou2 zhuan3 xiang4
+瞎蒙=xia1 meng1
 
 
 #蒡=bang4,pang2
@@ -9728,6 +9898,8 @@
 #蔓=man4
 
 #蔓=wan4
+瓜蔓=gua1 wan4
+压蔓=ya1 wan4
 
 #蔓=man2
 
@@ -9774,8 +9946,10 @@
 #蕃=fan2
 
 #蕃=fan1
+蕃王=fan1 wang2
 
 #蕃=bo1
+吐蕃=tu3 bo1
 
 
 #蕈=xun4,jun4
@@ -9808,9 +9982,14 @@
 #薄=bo2
 
 #薄=bao2
+薄片=bao2 pian4
+薄饼=bao2 bing3
+薄待=bao2 dai4
+薄酒=bao2 jiu3
+薄田=bao2 tian2
 
 #薄=bo4
-
+薄荷=bo4 he2
 
 #薇=wei1,wei2
 #薇=wei1
@@ -9848,6 +10027,7 @@
 #藉=jie4
 
 #藉=ji2
+狼藉=lang2 ji2
 
 
 #藍=lan2,la5
@@ -9856,10 +10036,19 @@
 #藍=la5
 
 
-#藏=zang4,cang2
-#藏=zang4
-
+#藏=cang2,zang4
 #藏=cang2
+
+#藏=zang4
+藏府=zang4 fu3
+宝藏=bao3 zang4
+道藏=dao4 zang4
+大藏经=da4 zang4 jing1
+三藏=san1 zang4
+西藏=xi1 zang4
+藏族=zang4 zu2
+藏药=zang4 yao4
+藏獒=zang4 ao2
 
 
 #藓=xian3,li4
@@ -9986,14 +10175,17 @@
 #蚂=ma3
 
 #蚂=ma1
+蚂螂=ma1 lang2
 
 #蚂=ma4
+蚂蚱=ma4 zha4
 
 
 #蚌=bang4,beng4
 #蚌=bang4
 
 #蚌=beng4
+蚌埠=beng4 bu4
 
 
 #蚔=qi2,chi2
@@ -10024,18 +10216,23 @@
 #蛆=qu1
 
 #蛆=ju1
+蝍蛆=ji2 ju1
 
 
 #蛇=she2,yi2
 #蛇=she2
 
 #蛇=yi2
+委蛇=wei3 yi2
 
 
 #蛤=ha2,ge2
 #蛤=ha2
 
 #蛤=ge2
+蛤蜊=ge2 li2
+文蛤=wen2 ge2
+蛤蚧=ge2 jie4
 
 
 #蛸=shao1,xiao1
@@ -10218,12 +10415,23 @@
 #行=xing2
 
 #行=hang2
+银行=yin2 hang2
+行市=hang2 shi4
+行伍=hang2 wu3
+工行=gong1 hang2
+农行=nong2 hang2
+中行=zhong1 hang2
+交行=jiao1 hang2
+建行=jian4 hang2
+招行=zhao1 hang2
 
 #行=hang4
+树行子=shu4 hang4 zi5
 
 #行=xing4
 
 #行=heng2
+道行=dao4 heng2
 
 
 #術=shu4,zhu2
@@ -10256,6 +10464,9 @@
 #衰=shuai1
 
 #衰=cui1
+衰衣=cui1 yi1
+衰少=cui1 shao3
+衰乏=cui1 fa2
 
 
 #衱=jie2,ji2
@@ -10304,6 +10515,8 @@
 #裨=bi4
 
 #裨=pi2
+裨将=pi2 jiang4
+偏裨=pian1 pi2
 
 #裨=bei1
 
@@ -10312,6 +10525,7 @@
 #裳=shang5
 
 #裳=chang2
+裳裳=chang2 chang2
 
 
 #裼=ti4,xi1,xi2
@@ -10370,6 +10584,8 @@
 #要=yao4
 
 #要=yao1
+要求=yao1 qiu2
+要挟=yao1 xie2
 
 
 #覃=tan2,qin2
@@ -10454,12 +10670,20 @@
 #观=guan1
 
 #观=guan4
+道观=dao4 guan4
+楼观=lou2 guan4
+台观=tai2 guan4
+白云观=bai2 yun2 guan4
+紫阳观=zi3 yang2 guan4
 
 
 #觉=jue2,jiao4
 #觉=jue2
 
 #觉=jiao4
+睡觉=shui4 jiao4
+午觉=wu3 jiao4
+一觉=yi1 jiao4
 
 
 #觑=qu4,qu1
@@ -10472,6 +10696,9 @@
 #角=jiao3
 
 #角=jue2
+角色=jue2 se4
+角斗=jue2 dou4
+口角=kou3 jue2
 
 #角=jia3
 
@@ -10486,6 +10713,9 @@
 #解=jie3
 
 #解=jie4
+押解=ya1 jie4
+起解=qi3 jie4
+解差=jie4 cha1
 
 #解=xie4
 
@@ -10716,6 +10946,7 @@
 #论=lun4
 
 #论=lun2
+论语=lun2 yu3
 
 
 #识=shi1,zhi4
@@ -10728,21 +10959,27 @@
 #诘=jie2
 
 #诘=ji2
+诘屈=ji2 qu1
+诘屈聱牙=ji2 qu1 ao2 ya2
+诘朝=ji2 chao2
 
 
 #语=yu3,yu4
 #语=yu3
 
 #语=yu4
+不以语人=bu4 yi3 yu4 ren2
 
 
 #说=shuo1,shui4,yue4
 #说=shuo1
 
 #说=shui4
+游说=you2 shui4
+说客=shui4 ke4
 
 #说=yue4
-
+不亦说乎=bu4 yi4 yue4 hu1
 
 #诶=ei4,ei2,ei3,ai3,e^1,e^2,e^3,e^4
 #诶=ei4
@@ -10766,18 +11003,33 @@
 #读=du2
 
 #读=dou4
+句读=ju4 dou4
 
 
-#谁=shei2,shui2
-#谁=shei2
-
+#谁=shui2,shei2
 #谁=shui2
+
+#谁=shei2
 
 
 #调=diao4,tiao2
 #调=diao4
 
 #调=tiao2
+调音=tiao2 yin1
+调匀=tiao2 yun2
+调整=tiao2 zheng3
+调制=tiao2 zhi4
+调准=tiao2 zhun3
+调笑=tiao2 xiao4
+调养=tiao2 yang3
+协调=xie2 tiao2
+调教=tiao2 jiao4
+调停=tiao2 ting2
+调味=tiao2 wei4
+调戏=tiao2 xi4
+调情=tiao2 qing2
+调试=tiao2 shi4
 
 
 #谜=mi2,mei4
@@ -10808,6 +11060,7 @@
 #谷=gu3
 
 #谷=yu4
+吐谷浑=tu3 yu4 hun2
 
 
 #谿=qi1,xi1
@@ -10938,12 +11191,27 @@
 #贲=bi4
 
 #贲=ben1
+虎贲=hu3 ben1
+旅贲=lu:3 ben1
+贲溃=ben1 kui4
+贲星=ben1 xing1
 
 
 #贾=jia3,gu3
 #贾=jia3
 
 #贾=gu3
+商贾=shang1 gu3
+贾资=gu3 zi1
+贾道=gu3 dao4
+贾贸=gu3 mao4
+贾贷=gu3 dai4
+贾欺=gu3 qi1
+贾用=gu3 yong4
+贾勇=gu3 yong3
+贾马=gu3 ma3
+贾田=gu3 tian2
+贾官=gu3 guan1
 
 
 #赚=zhuan4,zuan4
@@ -10962,6 +11230,7 @@
 #趄=ju1
 
 #趄=qie4
+趔趄=lie4 qie4
 
 #趄=qie5
 
@@ -10972,6 +11241,8 @@
 #趟=tang4
 
 #趟=tang1
+趟水=tang1 shui3
+趟地=tang1 di4
 
 
 #趣=qu4,cu4
@@ -11407,6 +11678,10 @@
 #遗=yi2
 
 #遗=wei4
+遗劳=wei4 lao2
+遗书=wei4 shu1
+遗使=wei4 shi3
+相遗以水=xiang1 wei4 yi3 shui3
 
 
 #遛=liu2,liu4
@@ -11492,6 +11767,8 @@
 #都=dou1
 
 #都=du1
+都市=du1 shi4
+大都=da4 du1
 
 
 #鄙=bi3,bi4
@@ -11995,6 +12272,9 @@
 #钉=ding1
 
 #钉=ding4
+钉钮扣=ding4 niu3 kou4
+钉马掌=ding4 ma3 zhang3
+钉箱子=ding4 xiang1 zi5
 
 
 #钌=liao3,liao4
@@ -12019,6 +12299,7 @@
 #钥=yao4
 
 #钥=yue4
+锁钥=suo3 yue4
 
 
 #钯=ba3,pa2
@@ -12037,6 +12318,10 @@
 #钻=zuan4
 
 #钻=zuan1
+钻探=zuan1 tan4
+钻孔=zuan1 kong3
+钻心=zuan1 xin1
+钻木取火=zuan1 mu4 qu3 huo3
 
 
 #钿=dian4,tian2
@@ -12069,6 +12354,9 @@
 #铛=dang1
 
 #铛=cheng1
+饼铛=bing3 cheng1
+酒铛=jiu3 cheng1
+茶铛=cha2 cheng1
 
 
 #铣=xian3,xi3
@@ -12107,6 +12395,9 @@
 #铺=pu1
 
 #铺=pu4
+店铺=dian4 pu4
+床铺=chuang2 pu4
+卧铺=wo4 pu4
 
 
 #锏=jian3,jian4

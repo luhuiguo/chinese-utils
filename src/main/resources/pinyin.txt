@@ -6605,7 +6605,7 @@
 柌=ci2
 柍=yang1
 柎=fu1
-柏=bo2,bai3,bo4
+柏=bai3,bo2,bo4
 某=mou3
 柑=gan1
 柒=qi1
@@ -10685,7 +10685,7 @@
 瞼=jian3
 瞽=gu3
 瞾=zhao4
-瞿=ju4,qu2,qu1
+瞿=qu2,ju4,qu1
 矀=wei2
 矁=chou3
 矂=ji4
@@ -12499,11 +12499,11 @@
 绒=rong2
 结=jie2,jie1
 绔=ku4
-绕=rao3,rao4,rao5
+绕=rao4,rao3,rao5
 绖=die2
 绗=hang2
 绘=hui4
-给=ji3,gei3
+给=gei3,ji3
 绚=xuan4
 绛=jiang4
 络=luo4,lao4
@@ -13130,7 +13130,7 @@
 腉=jie1
 腊=la4,xi1
 腋=ye4,yi4
-腌=a1,yan1
+腌=yan1,a1
 腍=ren3
 腎=shen4
 腏=chuo4,duo2
@@ -13248,7 +13248,7 @@
 膿=nong2
 臀=tun2
 臁=lian2
-臂=bei5,bi4,bei4
+臂=bi4,bei5,bei4
 臃=yong1
 臄=jue2
 臅=chu4
@@ -14285,7 +14285,7 @@
 藌=mi4
 藍=lan2,la5
 藎=jin4
-藏=zang4,cang2
+藏=cang2,zang4
 藐=miao3
 藑=qiong2
 藒=qie4
@@ -15871,7 +15871,7 @@
 课=ke4
 诿=wei3
 谀=yu2
-谁=shei2,shui2
+谁=shui2,shei2
 谂=shen3
 调=diao4,tiao2
 谄=chan3
