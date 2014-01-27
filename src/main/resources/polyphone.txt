@@ -2187,8 +2187,18 @@
 #哄=hong1
 
 #哄=hong3
+哄人=hong3 ren2
+哄弄=hong3 nong4
+哄骗=hong3 pian4
+哄逗=hong3 dou4
+哄劝=hong3 quan4
+哄小孩=hong3 xiao3 hai2
 
 #哄=hong4
+起哄=qi3 hong4
+哄场=hong4 chang3
+哄抢=hong4 qiang3
+一哄而起=yi1 hong4 er2 qi3
 
 
 #哅=xiong1,hong1
@@ -2209,6 +2219,7 @@
 #哈=ha3
 
 #哈=ha4
+哈什蚂=ha4 shen2 ma3
 
 #哈=ka1
 
@@ -11009,6 +11020,7 @@
 #跑=pao3
 
 #跑=pao2
+虎跑=hu3 pao2
 
 
 #跖=zhi2,zhi1
@@ -11033,6 +11045,7 @@
 #踉=liang4
 
 #踉=liang2
+跳踉=tiao4 liang2
 
 
 #踋=jiao3,jia3,jue2
@@ -11193,12 +11206,16 @@
 #车=che1
 
 #车=ju1
+车马炮=ju1 ma3 pao4
+舍车保帅=she4 ju1 bao3 shuai4
 
 
 #轧=ya4,zha2,ga2
 #轧=ya4
 
 #轧=zha2
+轧钢=zha2 gang1
+轧辊=zha2 gun3
 
 #轧=ga2
 
@@ -11207,6 +11224,8 @@
 #转=zhuan3
 
 #转=zhuan4
+转动=zhuan4 dong4
+转速=zhuan4 su4
 
 #转=zhuai3
 
@@ -11227,12 +11246,22 @@
 #轴=zhou2
 
 #轴=zhou4
+压轴=ya1 zhou4
 
 
 #载=zai3,zai4
 #载=zai3
 
 #载=zai4
+载客=zai4 ke4
+载货=zai4 huo4
+载重=zai4 zhong4
+载体=zai4 ti3
+装载=zhuang1 zai4
+载运=zai4 yun4
+满载=man3 zai4
+怨声载道=yuan4 sheng1 zai4 dao4
+载歌载舞=zai4 ge1 zai4 wu3
 
 
 #辑=ji2,ji5
@@ -11245,6 +11274,12 @@
 #辟=pi4
 
 #辟=bi4
+复辟=fu4 bi4
+辟召=bi4 zhao4
+辟引=bi4 yin3
+辟书=bi4 shu1
+辟除=bi4 chu2
+辟举=bi4 ju3
 
 #辟=pi1
 
@@ -11277,30 +11312,48 @@
 #还=hai2
 
 #还=huan2
+还乡=huan2 xiang1
+还俗=huan2 su2
+还童=huan2 tong2
+还手=huan2 shou3
+还嘴=huan2 zui3
+还击=huan2 ji1
+以眼还眼=yi3 yan3 huan2 yan3
+以牙还牙=yi3 ya2 huan2 ya2
+归还=gui1 huan2
+偿还=chang2 huan2
+还本=huan2 ben3
+奉还=feng4 huan2
+还书=huan2 shu1
+还钱=huan2 qian2
+还礼=huan2 li3
+还原=huan2 yuan2
+还愿=huan2 yuan4
 
 
-#这=zhei4,zhe4
-#这=zhei4
-
+#这=zhe4,zhei4
 #这=zhe4
+
+#这=zhei4
 
 
 #迤=yi3,yi2
 #迤=yi3
 
 #迤=yi2
+逶迤=wei1 yi2
 
 
 #迫=po4,pai3
 #迫=po4
 
 #迫=pai3
+迫击=pai3 ji1
 
-
-#迹=ji1,ji4
-#迹=ji1
-
+#迹=ji4,ji1
 #迹=ji4
+
+#迹=ji1
 
 
 #适=shi4,kuo4
@@ -11325,12 +11378,17 @@
 #逮=dai4
 
 #逮=dai3
+逮蚊子=dai3 wen2 zi5
+逮特务=dai3 te4 wu4
+逮老鼠=dai3 lao3 shu3
+逮小偷=dai3 xiao3 tou1
 
 
 #遂=sui4,sui2
 #遂=sui4
 
 #遂=sui2
+半身不遂=ban4 shen1 bu4 sui2
 
 
 #遍=bian4,pian4
@@ -11395,10 +11453,10 @@
 #還=xuan2
 
 
-#那=nei4,na4,na1,na3
-#那=nei4
-
+#那=na4,nei4,na1,na3
 #那=na4
+
+#那=nei4
 
 #那=na1
 
@@ -11421,6 +11479,7 @@
 #郎=lang2
 
 #郎=lang4
+屎壳郎=shi3 ke2 lang4
 
 
 #郒=lang2,lang4
@@ -11527,6 +11586,8 @@
 #采=cai3
 
 #采=cai4
+采地=cai4 di4
+采邑=cai4 yi4
 
 
 #里=li3,li5
@@ -11539,14 +11600,39 @@
 #重=zhong4
 
 #重=chong2
+重复=chong2 fu4
+重申=chong2 shen1
+重版=chong2 ban3
+重沓=chong2 ta4
+重阳=chong2 yang2
+重逢=chong2 feng2
+重庆=chong2 qing4
+重叠=chong2 die2
+重唱=chong2 chang4
+重峦叠嶂=chong2 luan2 die2 zhang4
 
 
 #量=liang4,liang2,liang5
 #量=liang4
 
 #量=liang2
+量具=liang2 ju4
+量杯=liang2 bei1
+量筒=liang2 tong3
+量角器=liang2 jiao3 qi4
+丈量=zhang4 liang2
+衡量=heng2 liang2
+计量=ji4 liang2
+测量=ce4 liang2
+量度=liang2 du4
+量体温=liang2 ti3 wen1
+估量=gu1 liang2
+思量=si1 liang2
+打量=da3 liang2
 
 #量=liang5
+打量=da3 liang5
+掂量=dian1 liang5
 
 
 #釐=li2,xi1
@@ -12119,6 +12205,20 @@
 #长=chang2
 
 #长=zhang3
+长大=zhang3 da4
+生长=sheng1 zhang3
+成长=cheng2 zhang3
+长子=zhang3 zi3
+长孙=zhang3 sun1
+长幼=zhang3 you4
+市长=shi4 zhang3
+省长=sheng3 zhang3
+部长=bu4 zhang3
+科长=ke1 zhang3
+局长=ju2 zhang3
+司长=si1 zhang3
+厂长=chang3 zhang3
+班长=ban1 zhang3
 
 
 #閆=yan4,yan2
@@ -12223,7 +12323,17 @@
 #间=jian1
 
 #间=jian4
-
+间隙=jian4 xi4
+间隔=jian4 ge2
+间断=jian4 duan4
+间接=jian4 jie1
+间日=jian4 ri4
+间歇=jian4 xie1
+黑白相间=hei1 bai2 xiang1 jian4
+离间=li2 jian4
+间谍=jian4 die2
+反间=fan3 jian4
+亲密无间=qin1 mi4 wu2 jian4
 
 #闶=kang1,kang4
 #闶=kang1
@@ -12235,6 +12345,9 @@
 #闷=men4
 
 #闷=men1
+闷气=men1 qi4
+闷热=men1 re4
+闷头=men1 tou2
 
 
 #阆=lang2,lang4
@@ -12265,6 +12378,10 @@
 #阙=que1
 
 #阙=que4
+宫阙=gong1 que4
+阙下=que4 xia4
+天阙=tian1 que4
+城阙=cheng2 que4
 
 
 #阚=kan4,han3,kan3
@@ -12297,6 +12414,8 @@
 #阿=a1
 
 #阿=e1
+阿附=e1 fu4
+阿胶=e1 jiao1
 
 #阿=a5
 
@@ -12309,20 +12428,31 @@
 #陂=po1
 
 #陂=bei1
+陂塘=bei1 tang2
+陂池=bei1 chi2
 
 #陂=pi2
+黄陂=huang2 po2
 
 
 #陆=lu4,liu4
 #陆=lu4
 
 #陆=liu4
+陆圆=liu4 yuan2
+陆拾=liu4 shi2
+陆佰=liu4 bai3
+陆仟=liu4 qian1
+陆万=liu4 wan4
 
 
 #降=jiang4,xiang2
 #降=jiang4
 
 #降=xiang2
+投降=tou2 xiang4
+降伏=xiang4 fu2
+降龙=xiang4 long2
 
 
 #陝=shan3,xia2
@@ -12389,6 +12519,19 @@
 #难=nan2
 
 #难=nan4
+难民=nan4 min2
+灾难=zai1 nan4
+遇难=yu4 nan4
+逃难=tao2 nan4
+殉难=xun4 nan4
+患难=huan4 nan4
+遭难=zao1 nan4
+避难=bi4 nan4
+解难=jie3 nan4
+发难=fa1 nan4
+非难=fei1 nan4
+责难=ze2 nan4
+国难=guo2 nan4
 
 
 #雀=que4,qiao1,qiao3
@@ -12457,6 +12600,10 @@
 #露=lu4
 
 #露=lou4
+露刃=lou4 ren4
+露光=lou4 guang1
+露相=lou4 xiang4
+露白=lou4 bai2
 
 
 #霳=long2,long1
@@ -12475,6 +12622,9 @@
 #靓=jing4
 
 #靓=liang4
+靓饰=liang4 shi4
+靓衣=liang4 yi1
+张靓颖=zhang1 liang4 ying3
 
 
 #靚=jing4,liang4
@@ -12629,12 +12779,14 @@
 #颈=jing3
 
 #颈=geng3
+脖颈子=bo2 geng3 zi5
 
 
 #颉=jie2,xie2
 #颉=jie2
 
 #颉=xie2
+颉颃=xie2 hang2
 
 
 #颌=he2,ge2
@@ -12653,15 +12805,19 @@
 #颤=zhan4
 
 #颤=chan4
+颤动=chan4 dong4
+颤抖=chan4 dou3
+颤音=chan4 yin1
 
 
 #食=shi2,si4,yi4
 #食=shi2
 
 #食=si4
+食母=si4 mu3
 
 #食=yi4
-
+郦食其=li4 yi4 ji1
 
 #飠=shi2,si4
 #飠=shi2
@@ -12861,6 +13017,7 @@
 #骠=piao4
 
 #骠=biao1
+黄骠马=huang2 biao1 ma3
 
 
 #骣=zhan4,chan3
@@ -12875,12 +13032,15 @@
 #骨=gu3
 
 #骨=gu1
+骨朵=gu1 duo3
+骨碌=gu1 liu5
 
 
 #骰=tou2,shai3
 #骰=tou2
 
 #骰=shai3
+骰子=shai3 zi5
 
 
 #骱=jie4,xie4
@@ -13039,6 +13199,8 @@
 #鲜=xian1
 
 #鲜=xian3
+鲜为人知=xian3 wei2 ren2 zhi1
+屡见不鲜=lu:3 jian4 bu4 xian3
 
 
 #鲭=qing1,zheng1
@@ -13125,7 +13287,9 @@
 #鸟=niao3
 
 #鸟=diao3
-
+鸟乱=diao3 luan4
+鸟闹=diao3 nao4
+鸟事=diao3 shi4
 
 #鹄=hu2,gu3
 #鹄=hu2
@@ -13287,7 +13451,7 @@
 #龟=gui1
 
 #龟=jun1
+龟裂=jun1 lie4
 
 #龟=qiu1
-
-
+龟兹=qiu1 ci2

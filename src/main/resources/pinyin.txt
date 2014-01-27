@@ -16855,7 +16855,7 @@
 迖=ta4
 迗=e2
 还=hai2,huan2
-这=zhei4,zhe4
+这=zhe4,zhei4
 迚=
 进=jin4
 远=yuan3
@@ -16887,7 +16887,7 @@
 迶=you4
 迷=mi2
 迸=beng4
-迹=ji1,ji4
+迹=ji4,ji1
 迺=nai3
 迻=yi2
 迼=jie2
@@ -17057,7 +17057,7 @@
 邠=bin1
 邡=fang1
 邢=xing2
-那=nei4,na4,na1,na3
+那=na4,nei4,na1,na3
 邤=
 邥=shen3
 邦=bang1
