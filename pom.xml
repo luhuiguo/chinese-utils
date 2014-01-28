@@ -7,8 +7,11 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Chinese Utils</name>
-  <description>中文工具包，包括中文的分词、拼音以及简繁转换。</description>
+  <name>Chinese Utilities</name>
+  <description>
+    A Java library supporting conversion between Simplified-Chinese, Traditional-Chinese
+    and Chinese-Pinyin.
+  </description>
   <url>https://github.com/luhuiguo/chinese-utils</url>
 
   <developers>
@@ -117,6 +120,20 @@
             <id>attach-javadocs</id>
             <goals>
               <goal>jar</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-gpg-plugin</artifactId>
+        <version>1.4</version>
+        <executions>
+          <execution>
+            <id>sign-artifacts</id>
+            <phase>verify</phase>
+            <goals>
+              <goal>sign</goal>
             </goals>
           </execution>
         </executions>
