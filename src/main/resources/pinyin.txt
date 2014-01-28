@@ -4192,7 +4192,7 @@
 幟=zhi4
 幠=hu1
 幡=fan1
-幢=chuang2,zhuang4
+幢=zhuang4,chuang2
 幣=bi4
 幤=bi4
 幥=
@@ -8919,7 +8919,7 @@
 烖=zai1
 烗=kai4
 烘=hong1
-烙=luo4,lao4
+烙=lao4,luo4
 烚=xia2
 烛=zhu2
 烜=xuan3
@@ -11139,7 +11139,7 @@
 禂=dao3
 禃=zhi2
 禄=lu4
-禅=shan4,chan2
+禅=chan2,shan4
 禆=bei1
 禇=zhe3
 禈=hui1
