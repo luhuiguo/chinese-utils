@@ -5,7 +5,6 @@
  */
 package com.luhuiguo.chinese;
 
-
 /**
  * 
  * @author luhuiguo
@@ -55,11 +54,11 @@ public class Trie<T> {
 		return node;
 	}
 
-	public TrieNode<T> bestMatch(char[] sen, int offset) {
+	public TrieNode<T> bestMatch(char[] sen, int offset, int len) {
 		TrieNode<T> ret = null;
-		
+
 		TrieNode<T> node = root;
-		for (int i = offset; i < sen.length; i++) {
+		for (int i = offset; i < len; i++) {
 			node = node.child(sen[i]);
 			if (node != null) {
 				if (node.isLeaf()) {
@@ -70,6 +69,11 @@ public class Trie<T> {
 			}
 		}
 		return ret;
+	}
+
+	public TrieNode<T> bestMatch(char[] sen, int offset) {
+
+		return bestMatch(sen, offset, sen.length);
 	}
 
 }

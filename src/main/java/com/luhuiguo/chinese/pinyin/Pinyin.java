@@ -72,7 +72,6 @@ public enum Pinyin {
 					pinyinDict.add(pair[1]);
 				}
 			}
-			// System.out.println("size=" + pinyinDict.size());
 
 			in.close();
 
@@ -170,7 +169,8 @@ public enum Pinyin {
 
 		int len = -1;
 		while ((len = in.read(buf)) != -1) {
-			TrieNode<String> node = polyphoneDict.bestMatch(buf, 0);
+			TrieNode<String> node = polyphoneDict.bestMatch(buf, 0, len);
+
 
 			if (node != null) {
 				int offset = node.getLevel();
@@ -213,6 +213,7 @@ public enum Pinyin {
 				}
 
 			}
+			//buf = new char[maxLen];
 
 		}
 

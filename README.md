@@ -5,14 +5,14 @@ chinese-utils
 
 转简体
 --------------------
-  String toSimplified(String str)
+ > String toSimplified(String str)
 
 
 转繁体
 --------------------
-  ChineseUtils.toTraditional(String str)
+ > ChineseUtils.toTraditional(String str)
 
 
 转拼音
 --------------------
-  ChineseUtils.toPinyin(String str, PinyinFormat format)
+ > ChineseUtils.toPinyin(String str, PinyinFormat format)

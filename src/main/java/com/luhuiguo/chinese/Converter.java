@@ -120,7 +120,7 @@ public enum Converter {
 			return ch;
 		}
 	}
-
+	
 	public void convert(Reader reader, Writer writer) throws IOException {
 
 		PushbackReader in = new PushbackReader(new BufferedReader(reader),
@@ -130,7 +130,7 @@ public enum Converter {
 
 		int len = -1;
 		while ((len = in.read(buf)) != -1) {
-			TrieNode<String> node = dict.bestMatch(buf, 0);
+			TrieNode<String> node = dict.bestMatch(buf, 0, len);
 
 			if (node != null) {
 				int offset = node.getLevel();
@@ -141,6 +141,7 @@ public enum Converter {
 				char ch = (char) in.read();
 				writer.write(convert(ch));
 			}
+			//buf = new char[maxLen];
 
 		}
 

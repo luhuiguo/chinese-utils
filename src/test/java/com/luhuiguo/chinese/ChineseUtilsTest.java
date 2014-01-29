@@ -5,10 +5,6 @@
  */
 package com.luhuiguo.chinese;
 
-import static com.luhuiguo.chinese.ChineseUtils.toPinyin;
-import static com.luhuiguo.chinese.ChineseUtils.toSimplified;
-import static com.luhuiguo.chinese.ChineseUtils.toTraditional;
-
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
@@ -66,19 +62,23 @@ public class ChineseUtilsTest {
 		//
 		// }
 
-		String c = "中华人民共和国女人执拗挨打";
-		String s = toSimplified(c);
-		String t = toTraditional(c);
-		String p1 = toPinyin(c, PinyinFormat.DEFAULT_PINYIN_FORMAT);
-		String p2 = toPinyin(c, PinyinFormat.UNICODE_PINYIN_FORMAT);
-		String p3 = toPinyin(c, PinyinFormat.TONELESS_PINYIN_FORMAT);
-		String p4 = toPinyin(c, PinyinFormat.ABBR_PINYIN_FORMAT);
-		System.out.println(c + " -> " + s + " => " + t);
-		System.out.println(p1);
-		System.out.println(p2);
-		System.out.println(p3);
-		System.out.println(p4);
+//		String c = "中华人民共和国女人执拗挨打";
+//		String s = ChineseUtils.toSimplified(c);
+//		String t = ChineseUtils.toTraditional(c);
+//		String p1 = ChineseUtils.toPinyin(c, PinyinFormat.DEFAULT_PINYIN_FORMAT);
+//		String p2 = ChineseUtils.toPinyin(c, PinyinFormat.UNICODE_PINYIN_FORMAT);
+//		String p3 = ChineseUtils.toPinyin(c, PinyinFormat.TONELESS_PINYIN_FORMAT);
+//		String p4 = ChineseUtils.toPinyin(c, PinyinFormat.ABBR_PINYIN_FORMAT);
+//		System.out.println(c + " -> " + s + " => " + t);
+//		System.out.println(p1);
+//		System.out.println(p2);
+//		System.out.println(p3);
+//		System.out.println(p4);
 
+		
+		
+		System.out.println(ChineseUtils.toTraditional("软件"));
+		
 		// fail("Not yet implemented");
 	}
 
