@@ -54,13 +54,14 @@ chinese-utils
 	s = "长江成长";
 	System.out.println(s + " => " + ChineseUtils.toPinyin(s) + " ("
 			+ ChineseUtils.toPinyin(s, PinyinFormat.UNICODE_PINYIN_FORMAT)
-			+ ")");
+			+ ") - "
+			+ ChineseUtils.toPinyin(s, PinyinFormat.ABBR_PINYIN_FORMAT));
 ```
 将会输出
 ```
 头发发财 => 頭髮發財
 簡訊資料庫 => 短信数据库
-长江成长 => chang2 jiang1 cheng2 zhang3 (cháng jiāng chéng zhăng)
+长江成长 => chang2 jiang1 cheng2 zhang3 (cháng jiāng chéng zhăng) - cjcz
 ```
 
 多音字以及简繁体消除歧义
