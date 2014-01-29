@@ -77,21 +77,15 @@ public class ChineseUtils {
 			textLine = readInputTextLine();
 			if (textLine == null || textLine.length() < 1) {
 				printHelp();
-				printHit(mode);
-			}
-			if ("q".equals(textLine)) {
+			}else if ("q".equals(textLine)) {
 				System.exit(0);
 			} else if ("t".equals(textLine)) {
 				mode = 2;
-
 			} else if ("s".equals(textLine)) {
 				mode = 1;
-
 			} else if ("".equals(textLine)) {
 				mode = 0;
-
 			} else {
-
 				switch (mode) {
 				case 1:
 					System.out.println("简体: "+ChineseUtils.toSimplified(textLine));

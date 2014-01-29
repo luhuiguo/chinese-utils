@@ -62,24 +62,31 @@ public class ChineseUtilsTest {
 		//
 		// }
 
-//		String c = "中华人民共和国女人执拗挨打";
-//		String s = ChineseUtils.toSimplified(c);
-//		String t = ChineseUtils.toTraditional(c);
-//		String p1 = ChineseUtils.toPinyin(c, PinyinFormat.DEFAULT_PINYIN_FORMAT);
-//		String p2 = ChineseUtils.toPinyin(c, PinyinFormat.UNICODE_PINYIN_FORMAT);
-//		String p3 = ChineseUtils.toPinyin(c, PinyinFormat.TONELESS_PINYIN_FORMAT);
-//		String p4 = ChineseUtils.toPinyin(c, PinyinFormat.ABBR_PINYIN_FORMAT);
-//		System.out.println(c + " -> " + s + " => " + t);
-//		System.out.println(p1);
-//		System.out.println(p2);
-//		System.out.println(p3);
-//		System.out.println(p4);
+		// String c = "中华人民共和国女人执拗挨打";
+		// String s = ChineseUtils.toSimplified(c);
+		// String t = ChineseUtils.toTraditional(c);
+		// String p1 = ChineseUtils.toPinyin(c,
+		// PinyinFormat.DEFAULT_PINYIN_FORMAT);
+		// String p2 = ChineseUtils.toPinyin(c,
+		// PinyinFormat.UNICODE_PINYIN_FORMAT);
+		// String p3 = ChineseUtils.toPinyin(c,
+		// PinyinFormat.TONELESS_PINYIN_FORMAT);
+		// String p4 = ChineseUtils.toPinyin(c,
+		// PinyinFormat.ABBR_PINYIN_FORMAT);
+		// System.out.println(c + " -> " + s + " => " + t);
+		// System.out.println(p1);
+		// System.out.println(p2);
+		// System.out.println(p3);
+		// System.out.println(p4);
 
-		
-		
-		System.out.println(ChineseUtils.toTraditional("软件"));
-		
+		String s = "头发发财";
+		System.out.println(s + " => " + ChineseUtils.toTraditional(s));
+		s = "簡訊資料庫";
+		System.out.println(s + " => " + ChineseUtils.toSimplified(s));
+		s = "长江成长";
+		System.out.println(s + " => " + ChineseUtils.toPinyin("长江成长") + " ("
+				+ ChineseUtils.toPinyin(s, PinyinFormat.UNICODE_PINYIN_FORMAT)
+				+ ")");
 		// fail("Not yet implemented");
 	}
-
 }
