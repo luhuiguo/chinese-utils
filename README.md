@@ -1,6 +1,8 @@
 chinese-utils
 =============
 
+很久以前的项目 http://chineseutils.sourceforge.net/ 升级
+
 中文相关工具包，目前提供中文简繁体互转，以及中文转拼音。未来会提供中文分词。
 
 使用
@@ -71,12 +73,20 @@ chinese-utils
 + 简体转繁体消除歧义表 - traditional.txt
 
 欢迎大家继续完善简繁体转换和拼音转换以消除歧义。
-未来可能先做分词在进行转换。
+未来可能先做中文分词在进行转换。
 
+参考
+--------------------
 
+http://www.cjk.org/cjk/c2c/c2cbasis.htm
 
+http://zh.wikipedia.org/zh-cn/Wikipedia:繁简分歧词表‎
 
+http://chineseutils.sourceforge.net/ 
 
+http://pinyin4j.sourceforge.net/‎
+
+https://code.google.com/p/mmseg4j/
 
 
 
