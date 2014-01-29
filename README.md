@@ -82,9 +82,9 @@ http://www.cjk.org/cjk/c2c/c2cbasis.htm
 
 http://zh.wikipedia.org/zh-cn/Wikipedia:繁简分歧词表‎
 
-http://chineseutils.sourceforge.net/ 
+http://chineseutils.sourceforge.net
 
-http://pinyin4j.sourceforge.net/‎
+http://pinyin4j.sourceforge.net
 
 https://code.google.com/p/mmseg4j/
 
