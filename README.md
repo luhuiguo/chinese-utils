@@ -29,17 +29,31 @@ chinese-utils
 ### 转简体
 
 ```java
-	ChineseUtils.toSimplified(String str)
+	String ChineseUtils.toSimplified(String str);
+
+	void Converter.SIMPLIFIED.convert(Reader reader, Writer writer) throws IOException; 
+    String Converter.SIMPLIFIED.convert(String str);
 ```
 
 ### 转繁体
 ```java
-	ChineseUtils.toTraditional(String str)
+	String ChineseUtils.toTraditional(String str);
+
+
+	void Converter.TRADITIONAL.convert(Reader reader, Writer writer) throws IOException; 
+    String Converter.TRADITIONAL.convert(String str);
 ```
 
 ### 转拼音
 ```java
- 	ChineseUtils.toPinyin(String str, PinyinFormat format)
+ 	String ChineseUtils.toPinyin(String str, PinyinFormat format);
+
+    String[] Pinyin.INSTANCE.toUnformattedPinyin(char ch);
+    String[] Pinyin.INSTANCE.toFormattedPinyin(char ch, PinyinFormat format);
+    String Pinyin.INSTANCE.toPinyin(char ch);
+    String Pinyin.INSTANCE.toPinyin(char ch, PinyinFormat format);
+    void Pinyin.INSTANCE.convert(Reader reader, Writer writer, PinyinFormat format) throws IOException;
+    String Pinyin.INSTANCE.convert(String str, PinyinFormat format);
 ```
 
 示例
@@ -68,10 +82,6 @@ chinese-utils
 --------------------
 目前已经整理了常用多音字词组和简繁体一些语言差异和一对多现象。
 
-请查看源代码中
-+ 多音字消除歧义表 - polyphone.txt
-+ 繁体转简体消除歧义表 - simplified.txt
-+ 简体转繁体消除歧义表 - traditional.txt
 
 欢迎大家继续完善简繁体转换和拼音转换以消除歧义。
 未来可能先做中文分词在进行转换。
@@ -82,12 +92,6 @@ chinese-utils
 http://www.cjk.org/cjk/c2c/c2cbasis.htm
 
 http://zh.wikipedia.org/zh-cn/Wikipedia:繁简分歧词表
-
-http://chineseutils.sourceforge.net
-
-http://pinyin4j.sourceforge.net
-
-https://code.google.com/p/mmseg4j/
 
 
 
