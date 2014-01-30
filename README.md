@@ -39,7 +39,6 @@ chinese-utils
 ```java
 	String ChineseUtils.toTraditional(String str);
 
-
 	void Converter.TRADITIONAL.convert(Reader reader, Writer writer) throws IOException; 
     String Converter.TRADITIONAL.convert(String str);
 ```
@@ -82,6 +81,33 @@ chinese-utils
 --------------------
 目前已经整理了常用多音字词组和简繁体一些语言差异和一对多现象。
 
+比如多音字默认第一个读音，其他读音需要在字典文件中列出
+```
+#龟=gui1,jun1,qiu1
+#龟=gui1
+
+#龟=jun1
+龟裂=jun1 lie4
+
+#龟=qiu1
+龟兹=qiu1 ci2
+```
+简繁转换中一对多或者两地语言习惯照成的不同也需列在字典文件中
+```
+# 计算机
+打印机=印表機
+内存=記憶體
+以太网=乙太網
+光标=游標
+光盘=光碟
+光驱=光碟機
+软驱=軟碟機
+总线=匯流排
+盘片=碟片
+硬件=硬體
+硅谷=矽谷
+硬盘=硬碟
+```
 
 欢迎大家继续完善简繁体转换和拼音转换以消除歧义。
 未来可能先做中文分词在进行转换。
@@ -93,5 +119,6 @@ http://www.cjk.org/cjk/c2c/c2cbasis.htm
 
 http://zh.wikipedia.org/zh-cn/Wikipedia:繁简分歧词表
 
+http://www.edu.tw/pages/detail.aspx?Node=3692&Page=16373&WID=c5ad5187-55ef-4811-8219-e946fe04f725
 
 
