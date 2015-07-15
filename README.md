@@ -2,11 +2,10 @@ chinese-utils
 =============
 项目将并入NLPchina
 https://github.com/NLPchina/
-
 请前往
 https://github.com/NLPchina/nlp-lang
-=============
 
+=============
 很久以前的项目 http://chineseutils.sourceforge.net/ 升级
 
 中文相关工具包，目前提供中文简繁体互转，以及中文转拼音。未来会提供中文分词。
